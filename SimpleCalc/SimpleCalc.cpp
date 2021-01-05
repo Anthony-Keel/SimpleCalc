@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include "calculate.h"
 
 int main()
 {
