@@ -1,5 +1,5 @@
-// SimpleCalc.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// SimpleCalc.cpp
+//created by A. Keel 05-01-2021
 
 #include <iostream>
 #include "calculate.h"
